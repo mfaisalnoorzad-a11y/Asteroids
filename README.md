@@ -1,0 +1,4 @@
+-so basically recreated the og asteroids game in python to learn OOP in python 
+-learned classes, objects, methods, etc
+-the game is very close to the original you can move around, shoot asteroids splitting them
+-features I wanna add soon is change the hitbox of the player add descritions like headers and so that the player can teleport when moving out of the screen back into it from the opposite side and maybe add custom backgrounds and sound effects.
